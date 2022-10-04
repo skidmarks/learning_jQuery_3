@@ -76,6 +76,8 @@ body.narrow .chapter {
 
 .selected {
   font-weight: bold;
+  color:#06581f;
+  background-color:beige;
 }
 
 .hidden {
